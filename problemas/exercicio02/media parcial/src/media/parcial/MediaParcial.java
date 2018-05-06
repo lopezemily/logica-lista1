@@ -29,6 +29,5 @@ public class MediaParcial {
         } else {
             System.out.println("Que pena! Você foi reprovado! :(");
         }
-    }
-    
+    }   
 }
