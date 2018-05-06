@@ -9,7 +9,6 @@ public class MediaParcial {
         Scanner leia = new Scanner(System.in);
 
         float nota1, nota2, notaparcial;
-        Scanner status;
 
         System.out.println("Qual foi sua nota da N1?");
         nota1 = leia.nextFloat();

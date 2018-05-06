@@ -9,7 +9,6 @@ public class Media {
         Scanner leia = new Scanner(System.in);
 
         float nota1, nota2, mediafinal;
-        String status;
         
         System.out.println("Qual foi sua nota 1?");
         nota1 = leia.nextFloat();
